@@ -1,5 +1,9 @@
 # Basketball
 
+download .zip
+
+extract files
+
 build with :
 mvn clean compile assembly:single
 
