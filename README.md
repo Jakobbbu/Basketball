@@ -1,6 +1,6 @@
 # Basketball
 
-download .zip
+download ZIP
 
 extract files
 
